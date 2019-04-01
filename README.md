@@ -1,2 +1,2 @@
 # Snake.js
-my first js game
+A javascript snake game
